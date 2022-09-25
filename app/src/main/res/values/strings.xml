@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YYSolitaire</string>
+    <string name="auto">Auto</string>
+    <string name="new_game">New Game</string>
+</resources>
